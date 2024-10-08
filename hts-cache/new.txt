@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:40:19	72/72	---MCZ	200	added ('OK')	text/plain	etag:%227000-1727786705;gz%22	https://invitaciondigital.felizia.es/robots.txt		(from )
+19:40:20	206367/206367	---MCZ	200	added ('OK')	text/html	etag:%229488-1728313422;gz%22	https://invitaciondigital.felizia.es/invitacion-de-boda-boho/	C:/Users/lux/Desktop/Invitacion/alejandro/invitaciondigital.felizia.es/invitacion-de-boda-boho/index.html	(from )
